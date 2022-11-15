@@ -4,4 +4,4 @@ Game ball basic code.
 ### Reading UUID
 ### Fetching services
 ### Fetching characteristics 
-### PErfoming actions on characteristics 
+### Performing actions on characteristics 
